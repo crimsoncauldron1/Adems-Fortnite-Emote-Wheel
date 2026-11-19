@@ -1,6 +1,6 @@
 # FortniteEmoteWheel (ILL UPDATE THE SC SOON!)
 The updated fortnite emote wheel. originally by iiDk
-<img width="1280" height="720" alt="wheel" src="https://github.com/user-attachments/assets/a8e47584-e09e-4bd8-9b73-f07e312655a2" />
+<img width="1280" height="720" alt="wheel" src="https://imgur.com/eK6gu0T" />
 
 
 ---
