@@ -1,4 +1,4 @@
-# FortniteEmoteWheel
+# FortniteEmoteWheel (ILL UPDATE THE SC SOON!)
 The updated fortnite emote wheel. originally by iiDk
 <img src="https://i.imgur.com/eK6gu0T.png">
 
